@@ -51,7 +51,7 @@ Any additional information goes here
   3. https://www.freepik.com/free-photos-vectors/air-quality-index
 ## Author
 
-- [Arijit Choudhury](https://github.com/sbdarijit)
+- [Joydeep Chanda](https://github.com/JoydeepChanda)
 
   
 ## Deployment
@@ -77,7 +77,7 @@ The best part about working with data is seeing the impact it can have in an org
 Data can be powerfully objective when properly and thoroughly analyzed- seeing the predictions 
 of intensive analysis lead to meaningful change is extremely rewarding.
 
-Contact: arijitchoudhury.99@gmail.com
+Contact: clockwork780@gmail.com
 
 
   
